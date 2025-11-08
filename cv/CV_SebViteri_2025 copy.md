@@ -3,14 +3,15 @@
 
 # Sebastián Viteri
 
-<span class="iconify" data-icon="charm:person"></span> [example.com](https://seb.ai/)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/sebviteri](https://github.com/sebviteri)
+
+<span class="iconify" data-icon="tabler:mail"></span> [sebastian.viteri.v@gmail.com](mailto:sebastian.viteri.v@gmail.com)
   : <span class="iconify" data-icon="logos:whatsapp-icon"></span> [+56 9 5637 8619](https://wa.me/56956378619)
+  : <span class="iconify" data-icon="ic:outline-location-on"></span> Santiago, RM, Chile
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Santiago, RM, Chile
-  : <span class="iconify" data-icon="devicon:linkedin"></span> [linkedin.com/in/sebviteri](https://linkedin.com/in/sebviteri/)
-  : <span class="iconify" data-icon="tabler:mail"></span> [sebastian.viteri.v@gmail.com](mailto:sebastian.viteri.v@gmail.com)
-
+<span class="iconify" data-icon="devicon:linkedin"></span> [linkedin.com/in/sebviteri](https://linkedin.com/in/sebviteri/)
+  : <span class="iconify" data-icon="charm:person"></span> [sebviteri.github.io](https://sebviteri.github.io/)
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/sebviteri](https://github.com/sebviteri)
+  
 
 ## Perfil
 
