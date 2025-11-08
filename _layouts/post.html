@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<nav class="primary-nav" aria-label="Navegación principal">
+  <a href="{{ '/' | relative_url }}#resume">Currículum</a>
+  <a href="{{ '/' | relative_url }}#blog">Blog</a>
+</nav>
+<article class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%d %B %Y" }}</p>
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+  <footer class="post-footer">
+    <a href="{{ '/blog/' | relative_url }}">← Volver al blog</a>
+  </footer>
+</article>

@@ -1,0 +1,27 @@
+title: "Sebastián Viteri"
+description: "Currículum, analytics y notas de liderazgo de Sebastián Viteri"
+lang: es
+url: https://sebviteri.github.io
+baseurl: ""
+author:
+  name: "Sebastián Viteri"
+  email: "sebastian.viteri.v@gmail.com"
+  url: https://seb.ai
+permalink: /blog/:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      lang: es
+      author: "Sebastián Viteri"
+exclude:
+  - cv/CV_Sebastian_Viteri_20251106.pdf
